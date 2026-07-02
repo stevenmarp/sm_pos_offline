@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": "POS Offline Mode",
-    "version": "18.0.1.0.0",
+    "version": "19.0.1.0.0",
     "category": "Point of Sale",
     "summary": "Full offline functionality for Odoo POS: reload, refresh and keep selling without internet, powered by Service Worker caching",
     "description": """
