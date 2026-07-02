@@ -28,6 +28,7 @@ You must open the POS online at least once to cache the data.
             "sm_pos_offline/static/src/js/pos_offline.js",
         ],
     },
+    "images": ["static/description/banner.gif"],
     "installable": True,
     "application": True,
     "auto_install": False,
